@@ -27,7 +27,7 @@ SECRET_KEY = '-5504=0*al!bx2svr$8&8fez^$%u8a2z$1m((=q#63%=2jw-62'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pradyumn30.pythonanywhere.com',]
 
 
 # Application definition
